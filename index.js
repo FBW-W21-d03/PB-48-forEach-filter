@@ -17,6 +17,7 @@ originalArray.forEach (
       
     }
 )
- console.log(originalArray);
-console.log(negativeArray);
-console.log(positiveArray);
+
+ console.log("All numbers:",originalArray);
+console.log("Negative numbers:", negativeArray);
+console.log("Possitive numbers:" ,positiveArray);
