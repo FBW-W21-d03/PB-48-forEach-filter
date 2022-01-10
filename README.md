@@ -17,4 +17,4 @@ Falls ja, füge sie dem leeren Array hinzu.
 ## Aufgabenstellung - Teil 4
 Schreibe beide Array in der Konsole aus.
 
-Kontest du die negativen Zahlen erfolgreich finden?
+Konntest du die negativen Zahlen erfolgreich finden?
