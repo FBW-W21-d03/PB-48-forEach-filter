@@ -10,3 +10,8 @@ zahlen.forEach (
 }
 );
 console.log(minusZahlen);
+
+zahlen.sort();
+
+const negativeZahlen = zahlen.filter((numElem) => numElem < 0);
+console.log(negativeZahlen);
