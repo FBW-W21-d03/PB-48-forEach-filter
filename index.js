@@ -31,4 +31,4 @@ zahlen.forEach((negative) => {
 });
 
 negativenZahlen.sort();
-console.log("Aufgabe 4 \n", negativenZahlen);
+console.log("Aufgabe4", zahlen);
