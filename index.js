@@ -16,4 +16,4 @@ const myNumber = [
 myNumber.sort();
 
 const myNegativnumber = myNumber.filter((numElem) => numElem < 0);
-console.log(myNegativnumber);
+console.log("negativ Nummer ist :", myNegativnumber);
