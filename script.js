@@ -21,8 +21,15 @@ negativeZahlen.push(zahlen)
 
 console.log(negativeZahlen);
 /*Falls ja, füge sie dem leeren Array hinzu.
-
 ## Aufgabenstellung - Teil 4
 Schreibe beide Array in der Konsole aus.
-
 Kontest du die negativen Zahlen erfolgreich finden?*/
+
+// FILTER FUNKTION//
+
+const zahlen2 = [
+    -144, 18, 19, -12, 70.5, -100, -7, -909, -18, 145, 33, 1921, 1989,
+  ];
+  zahlen2.sort();
+  const negativezahlen2 = zahlen2.filter((werte) => werte < 0);
+  console.log(negativezahlen2);
